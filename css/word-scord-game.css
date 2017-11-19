@@ -1,5 +1,31 @@
+#layout{
+	width: 60%;
+	margin:20px auto;
+	background-color:#eefadd;
+}
+#header{
+	font-size:20px;
+	padding-left: 290px;
+}
+#score-box>p{
+	font-size:20px;
+	padding-left: 280px;
+}
+
+.button{
+	font-size:15px;
+}
+#button1{
+	padding-left: 70px;
+}
+#button2,#ul{
+	padding-left: 180px;
+}
+
 #letters-you-have-box{
 	/* column-count: 8; */
+	 padding-bottom: 25px;
+	 padding-left: 55px;
 }
 
 .letter{
@@ -22,6 +48,7 @@
     height: 50px;
     margin: 10px;
 }
+
 
 
 .tile-piece-1 {
